@@ -1,0 +1,129 @@
+{
+    "generated_at": "2026-10-26T22:32:23",
+    "dataset_directory": "C:\\Mini\\Dataset2",
+    "database_file": "C:\\Mini\\Student_attendace_system\\face_database_v2\\student_embeddings_v2.npz",
+    "model": "InsightFace buffalo_l recognition model",
+    "embedding_method": "Direct feature extraction from pre-cropped images",
+    "students_found": 23,
+    "total_images_found": 1887,
+    "embeddings_generated": 1887,
+    "failed_images": 0,
+    "embedding_dimensions": 512,
+    "students": {
+        "1si24ec004": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec008": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec014": {
+            "images_found": 26,
+            "embeddings_generated": 26,
+            "failed_images": 0
+        },
+        "1si24ec015": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec017": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec022": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec024": {
+            "images_found": 45,
+            "embeddings_generated": 45,
+            "failed_images": 0
+        },
+        "1si24ec027": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec034": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec035": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec040": {
+            "images_found": 80,
+            "embeddings_generated": 80,
+            "failed_images": 0
+        },
+        "1si24ec043": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec044": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec048": {
+            "images_found": 44,
+            "embeddings_generated": 44,
+            "failed_images": 0
+        },
+        "1si24ec052": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec054": {
+            "images_found": 45,
+            "embeddings_generated": 45,
+            "failed_images": 0
+        },
+        "1si24ec055": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec056": {
+            "images_found": 90,
+            "embeddings_generated": 90,
+            "failed_images": 0
+        },
+        "1si24ec057": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec058": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si25ec406": {
+            "images_found": 41,
+            "embeddings_generated": 41,
+            "failed_images": 0
+        },
+        "1si25ec408": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si25ec410": {
+            "images_found": 16,
+            "embeddings_generated": 16,
+            "failed_images": 0
+        }
+    }
+}
