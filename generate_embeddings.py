@@ -10,7 +10,7 @@ import json
 # 1. CONFIGURATION
 # ==================================================
 
-DATASET_DIR = Path(r"C:\Mini\Processed_Dataset")
+DATASET_DIR = Path(r"C:\Mini\Processed_Dataset2")
 
 OUTPUT_DIR = Path(
     r"C:\Mini\Student_attendace_system\face_database"
