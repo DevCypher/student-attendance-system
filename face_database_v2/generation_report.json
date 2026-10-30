@@ -1,16 +1,46 @@
 {
-    "generated_at": "2026-10-26T22:32:23",
+    "generated_at": "2026-10-30T15:33:29",
     "dataset_directory": "C:\\Mini\\Dataset2",
     "database_file": "C:\\Mini\\Student_attendace_system\\face_database_v2\\student_embeddings_v2.npz",
     "model": "InsightFace buffalo_l recognition model",
     "embedding_method": "Direct feature extraction from pre-cropped images",
-    "students_found": 23,
-    "total_images_found": 1887,
-    "embeddings_generated": 1887,
+    "students_found": 53,
+    "total_images_found": 4956,
+    "embeddings_generated": 4956,
     "failed_images": 0,
     "embedding_dimensions": 512,
     "students": {
+        "1si24ec001": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec002": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec003": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec004": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec005": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec006": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec007": {
             "images_found": 100,
             "embeddings_generated": 100,
             "failed_images": 0
@@ -20,12 +50,37 @@
             "embeddings_generated": 100,
             "failed_images": 0
         },
+        "1si24ec009": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec010": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec011": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec012": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec014": {
-            "images_found": 26,
-            "embeddings_generated": 26,
+            "images_found": 100,
+            "embeddings_generated": 100,
             "failed_images": 0
         },
         "1si24ec015": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec016": {
             "images_found": 100,
             "embeddings_generated": 100,
             "failed_images": 0
@@ -35,7 +90,32 @@
             "embeddings_generated": 100,
             "failed_images": 0
         },
+        "1si24ec018": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec019": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec020": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec021": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec022": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec023": {
             "images_found": 100,
             "embeddings_generated": 100,
             "failed_images": 0
@@ -45,7 +125,32 @@
             "embeddings_generated": 45,
             "failed_images": 0
         },
+        "1si24ec025": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec027": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec028": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec029": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec032": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec033": {
             "images_found": 100,
             "embeddings_generated": 100,
             "failed_images": 0
@@ -60,9 +165,24 @@
             "embeddings_generated": 100,
             "failed_images": 0
         },
+        "1si24ec037": {
+            "images_found": 95,
+            "embeddings_generated": 95,
+            "failed_images": 0
+        },
+        "1si24ec039": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec040": {
             "images_found": 80,
             "embeddings_generated": 80,
+            "failed_images": 0
+        },
+        "1si24ec041": {
+            "images_found": 100,
+            "embeddings_generated": 100,
             "failed_images": 0
         },
         "1si24ec043": {
@@ -75,12 +195,27 @@
             "embeddings_generated": 100,
             "failed_images": 0
         },
+        "1si24ec045": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec047": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
         "1si24ec048": {
             "images_found": 44,
             "embeddings_generated": 44,
             "failed_images": 0
         },
         "1si24ec052": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec053": {
             "images_found": 100,
             "embeddings_generated": 100,
             "failed_images": 0
@@ -110,9 +245,14 @@
             "embeddings_generated": 100,
             "failed_images": 0
         },
-        "1si25ec406": {
-            "images_found": 41,
-            "embeddings_generated": 41,
+        "1si24ec061": {
+            "images_found": 100,
+            "embeddings_generated": 100,
+            "failed_images": 0
+        },
+        "1si24ec062": {
+            "images_found": 100,
+            "embeddings_generated": 100,
             "failed_images": 0
         },
         "1si25ec408": {
@@ -123,6 +263,16 @@
         "1si25ec410": {
             "images_found": 16,
             "embeddings_generated": 16,
+            "failed_images": 0
+        },
+        "1si25ec413": {
+            "images_found": 41,
+            "embeddings_generated": 41,
+            "failed_images": 0
+        },
+        "4si25ec407": {
+            "images_found": 100,
+            "embeddings_generated": 100,
             "failed_images": 0
         }
     }

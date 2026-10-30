@@ -1,1 +1,378 @@
 ﻿timestamp_seconds,frame_number,face_number,predicted_id,similarity,accepted_match
+0.03,1,1,Unknown,0.3691,False
+0.03,1,2,Too small,0.0,False
+0.03,1,3,Too small,0.0,False
+0.03,1,4,1si24ec016,0.5727,True
+0.03,1,5,Too small,0.0,False
+0.03,1,6,Too small,0.0,False
+0.03,1,7,Too small,0.0,False
+0.03,1,8,Too small,0.0,False
+0.03,1,9,Too small,0.0,False
+0.03,1,10,Too small,0.0,False
+0.03,1,11,Too small,0.0,False
+0.03,1,12,Too small,0.0,False
+1.6,48,1,Unknown,0.3858,False
+1.6,48,2,1si24ec016,0.6146,True
+1.6,48,3,Too small,0.0,False
+1.6,48,4,Too small,0.0,False
+1.6,48,5,Too small,0.0,False
+1.6,48,6,Too small,0.0,False
+1.6,48,7,Too small,0.0,False
+1.6,48,8,Too small,0.0,False
+1.6,48,9,Too small,0.0,False
+1.6,48,10,Too small,0.0,False
+1.6,48,11,Too small,0.0,False
+1.6,48,12,Too small,0.0,False
+1.6,48,13,Too small,0.0,False
+1.6,48,14,Too small,0.0,False
+1.6,48,15,Too small,0.0,False
+1.6,48,16,Too small,0.0,False
+3.1,93,1,1si24ec057,0.5359,True
+3.1,93,2,Too small,0.0,False
+3.1,93,3,Too small,0.0,False
+3.1,93,4,Too small,0.0,False
+3.1,93,5,1si24ec016,0.6028,True
+3.1,93,6,Unknown,0.3741,False
+3.1,93,7,Too small,0.0,False
+3.1,93,8,Too small,0.0,False
+3.1,93,9,Too small,0.0,False
+3.1,93,10,Too small,0.0,False
+3.1,93,11,Too small,0.0,False
+3.1,93,12,Too small,0.0,False
+3.1,93,13,Too small,0.0,False
+3.1,93,14,Too small,0.0,False
+3.1,93,15,Too small,0.0,False
+3.1,93,16,Too small,0.0,False
+4.54,136,1,1si24ec011,0.4639,True
+4.54,136,2,1si24ec057,0.4556,True
+4.54,136,3,Too small,0.0,False
+4.54,136,4,Too small,0.0,False
+4.54,136,5,Too small,0.0,False
+4.54,136,6,Too small,0.0,False
+4.54,136,7,Too small,0.0,False
+4.54,136,8,Too small,0.0,False
+4.54,136,9,Too small,0.0,False
+4.54,136,10,Too small,0.0,False
+4.54,136,11,Too small,0.0,False
+4.54,136,12,Too small,0.0,False
+4.54,136,13,Too small,0.0,False
+4.54,136,14,Too small,0.0,False
+4.54,136,15,Too small,0.0,False
+4.54,136,16,Too small,0.0,False
+4.54,136,17,Too small,0.0,False
+4.54,136,18,Too small,0.0,False
+4.54,136,19,Too small,0.0,False
+4.54,136,20,Too small,0.0,False
+6.34,190,1,1si24ec011,0.4781,True
+6.34,190,2,1si24ec057,0.4447,True
+6.34,190,3,Too small,0.0,False
+6.34,190,4,Too small,0.0,False
+6.34,190,5,Too small,0.0,False
+6.34,190,6,Too small,0.0,False
+6.34,190,7,Too small,0.0,False
+6.34,190,8,Too small,0.0,False
+6.34,190,9,Too small,0.0,False
+6.34,190,10,Too small,0.0,False
+6.34,190,11,Too small,0.0,False
+6.34,190,12,Too small,0.0,False
+6.34,190,13,Too small,0.0,False
+6.34,190,14,Too small,0.0,False
+6.34,190,15,Too small,0.0,False
+6.34,190,16,Too small,0.0,False
+6.34,190,17,Too small,0.0,False
+6.34,190,18,Too small,0.0,False
+6.34,190,19,Too small,0.0,False
+8.01,240,1,1si24ec043,0.5266,True
+8.01,240,2,1si24ec016,0.6951,True
+8.01,240,3,Unknown,0.3709,False
+8.01,240,4,Too small,0.0,False
+8.01,240,5,Too small,0.0,False
+8.01,240,6,Too small,0.0,False
+8.01,240,7,Too small,0.0,False
+8.01,240,8,Too small,0.0,False
+8.01,240,9,Too small,0.0,False
+8.01,240,10,Too small,0.0,False
+8.01,240,11,Too small,0.0,False
+8.01,240,12,Too small,0.0,False
+9.08,272,1,Too small,0.0,False
+9.08,272,2,Unknown,0.3568,False
+9.08,272,3,1si24ec057,0.4332,True
+9.08,272,4,1si24ec043,0.5074,True
+9.08,272,5,Unknown,0.5316,False
+9.08,272,6,Too small,0.0,False
+9.08,272,7,Too small,0.0,False
+9.08,272,8,Too small,0.0,False
+9.08,272,9,Too small,0.0,False
+9.08,272,10,Too small,0.0,False
+9.08,272,11,Too small,0.0,False
+9.08,272,12,Too small,0.0,False
+10.25,307,1,1si24ec011,0.5056,True
+10.25,307,2,1si24ec057,0.4025,True
+10.25,307,3,Unknown,0.2978,False
+10.25,307,4,1si24ec040,0.4736,True
+10.25,307,5,Unknown,0.4406,False
+10.25,307,6,1si24ec035,0.5904,True
+10.25,307,7,Too small,0.0,False
+10.25,307,8,Too small,0.0,False
+10.25,307,9,Too small,0.0,False
+10.25,307,10,Too small,0.0,False
+11.35,340,1,1si24ec040,0.6455,True
+11.35,340,2,Unknown,0.3688,False
+11.35,340,3,1si24ec011,0.5816,True
+11.35,340,4,Too small,0.0,False
+11.35,340,5,Too small,0.0,False
+11.35,340,6,Too small,0.0,False
+11.35,340,7,Too small,0.0,False
+11.35,340,8,Unknown,0.3503,False
+11.35,340,9,Unknown,0.3298,False
+11.35,340,10,Too small,0.0,False
+11.35,340,11,Too small,0.0,False
+12.38,371,1,1si24ec035,0.6812,True
+12.38,371,2,1si24ec040,0.6409,True
+12.38,371,3,1si24ec032,0.5977,True
+12.38,371,4,Too small,0.0,False
+12.38,371,5,Unknown,0.354,False
+12.38,371,6,Too small,0.0,False
+12.38,371,7,Too small,0.0,False
+13.12,393,1,1si24ec055,0.5087,True
+13.12,393,2,1si24ec035,0.6357,True
+13.12,393,3,1si24ec032,0.5598,True
+13.12,393,4,1si24ec045,0.4458,True
+13.12,393,5,1si24ec040,0.6252,True
+13.12,393,6,1si24ec029,0.411,True
+13.12,393,7,Unknown,0.4078,False
+13.12,393,8,1si24ec009,0.4655,True
+13.12,393,9,Unknown,0.447,False
+13.12,393,10,Too small,0.0,False
+14.25,427,1,Unknown,0.3792,False
+14.25,427,2,1si24ec035,0.6145,True
+14.25,427,3,Unknown,0.3859,False
+14.25,427,4,1si24ec044,0.4653,True
+14.25,427,5,1si24ec029,0.4004,True
+14.25,427,6,1si24ec045,0.5621,True
+14.25,427,7,Unknown,0.6518,False
+14.25,427,8,Too small,0.0,False
+15.15,454,1,Unknown,0.4196,False
+15.15,454,2,1si24ec055,0.4088,True
+15.15,454,3,1si24ec010,0.586,True
+15.15,454,4,Unknown,0.4862,False
+15.15,454,5,Unknown,0.428,False
+15.15,454,6,Unknown,0.4233,False
+15.15,454,7,1si24ec029,0.4097,True
+15.15,454,8,Too small,0.0,False
+16.06,481,1,Unknown,0.449,False
+16.06,481,2,1si24ec055,0.5356,True
+16.06,481,3,1si24ec010,0.5858,True
+16.06,481,4,1si24ec029,0.4524,True
+16.62,498,1,1si24ec045,0.5667,True
+16.62,498,2,Unknown,0.4052,False
+16.62,498,3,1si24ec055,0.5226,True
+16.62,498,4,1si24ec010,0.425,True
+16.62,498,5,1si24ec029,0.41,True
+16.62,498,6,Unknown,0.4125,False
+17.29,518,1,1si24ec045,0.6274,True
+17.29,518,2,1si24ec009,0.6463,True
+17.29,518,3,1si24ec032,0.4621,True
+17.29,518,4,1si24ec055,0.4333,True
+17.29,518,5,1si24ec029,0.53,True
+17.86,535,1,1si24ec032,0.5217,True
+17.86,535,2,1si24ec009,0.6457,True
+17.86,535,3,1si24ec045,0.6325,True
+17.86,535,4,Unknown,0.5349,False
+17.86,535,5,1si24ec029,0.4694,True
+17.86,535,6,1si24ec010,0.5575,True
+18.59,557,1,1si24ec010,0.6746,True
+18.59,557,2,1si24ec032,0.4891,True
+18.59,557,3,1si24ec007,0.5497,True
+18.59,557,4,1si24ec029,0.5092,True
+18.59,557,5,1si24ec023,0.5908,True
+18.59,557,6,Unknown,0.3861,False
+19.29,578,1,1si24ec029,0.5016,True
+19.29,578,2,1si24ec009,0.5483,True
+19.29,578,3,1si24ec010,0.6378,True
+19.29,578,4,1si24ec007,0.5966,True
+19.79,593,1,1si24ec029,0.5938,True
+19.79,593,2,1si24ec007,0.6505,True
+19.79,593,3,1si24ec009,0.6874,True
+19.79,593,4,Unknown,0.5861,False
+20.23,606,1,1si24ec029,0.5459,True
+20.23,606,2,1si24ec007,0.6025,True
+20.23,606,3,1si24ec009,0.6262,True
+20.23,606,4,1si24ec023,0.5974,True
+20.73,621,1,1si24ec010,0.6587,True
+20.73,621,2,1si24ec009,0.6131,True
+20.73,621,3,1si24ec029,0.5502,True
+20.73,621,4,1si24ec007,0.5052,True
+21.23,636,1,1si24ec010,0.6592,True
+21.23,636,2,1si24ec009,0.6603,True
+21.23,636,3,1si24ec029,0.5124,True
+21.23,636,4,1si24ec007,0.5195,True
+21.7,650,1,1si24ec009,0.5736,True
+21.7,650,2,1si24ec010,0.6661,True
+21.7,650,3,1si24ec007,0.5369,True
+22.1,662,1,1si24ec009,0.5241,True
+22.1,662,2,1si24ec007,0.565,True
+22.1,662,3,1si24ec010,0.6054,True
+22.5,674,1,1si24ec007,0.5681,True
+22.5,674,2,1si24ec010,0.5712,True
+22.5,674,3,1si24ec004,0.6584,True
+22.9,686,1,1si24ec007,0.5679,True
+22.9,686,2,1si24ec010,0.5106,True
+23.2,695,1,1si24ec007,0.6293,True
+23.33,699,1,1si24ec007,0.4513,True
+23.47,703,1,Unknown,0.4396,False
+23.63,708,1,1si24ec022,0.5954,True
+23.63,708,2,Too small,0.0,False
+23.63,708,3,Too small,0.0,False
+23.93,717,1,1si24ec012,0.5319,True
+23.93,717,2,1si24ec022,0.6387,True
+23.93,717,3,Unknown,0.4463,False
+23.93,717,4,Too small,0.0,False
+23.93,717,5,Too small,0.0,False
+23.93,717,6,Too small,0.0,False
+23.93,717,7,Too small,0.0,False
+24.63,738,1,1si24ec005,0.7101,True
+24.63,738,2,1si24ec012,0.584,True
+24.63,738,3,1si24ec022,0.6394,True
+24.63,738,4,Too small,0.0,False
+24.63,738,5,Too small,0.0,False
+24.63,738,6,Too small,0.0,False
+24.63,738,7,Too small,0.0,False
+25.37,760,1,1si24ec005,0.6756,True
+25.37,760,2,1si24ec022,0.6438,True
+25.37,760,3,1si24ec012,0.5359,True
+25.37,760,4,Too small,0.0,False
+25.84,774,1,1si24ec022,0.6222,True
+25.84,774,2,Unknown,0.3336,False
+25.84,774,3,1si24ec012,0.4271,True
+25.84,774,4,1si24ec005,0.6688,True
+25.84,774,5,Too small,0.0,False
+26.44,792,1,1si24ec022,0.6321,True
+26.44,792,2,1si24ec005,0.6273,True
+26.44,792,3,Unknown,0.4728,False
+26.44,792,4,Unknown,0.4623,False
+26.44,792,5,Too small,0.0,False
+27.0,809,1,1si24ec005,0.5126,True
+27.0,809,2,1si24ec039,0.5728,True
+27.0,809,3,Unknown,0.3453,False
+27.0,809,4,Unknown,0.5312,False
+27.0,809,5,Unknown,0.5412,False
+27.0,809,6,Too small,0.0,False
+27.0,809,7,Too small,0.0,False
+27.77,832,1,1si24ec039,0.7264,True
+27.77,832,2,Unknown,0.3088,False
+27.77,832,3,1si24ec028,0.4139,True
+27.77,832,4,Too small,0.0,False
+27.77,832,5,1si24ec005,0.4729,True
+27.77,832,6,Too small,0.0,False
+27.77,832,7,Too small,0.0,False
+27.77,832,8,Too small,0.0,False
+28.61,857,1,Unknown,0.3056,False
+28.61,857,2,1si24ec039,0.7101,True
+28.61,857,3,1si24ec012,0.5299,True
+28.61,857,4,1si24ec022,0.4934,True
+28.61,857,5,Unknown,0.5031,False
+28.61,857,6,1si24ec005,0.5851,True
+28.61,857,7,Too small,0.0,False
+29.44,882,1,Unknown,0.3605,False
+29.44,882,2,1si24ec039,0.6938,True
+29.44,882,3,Unknown,0.5002,False
+29.44,882,4,1si24ec012,0.4895,True
+29.44,882,5,1si24ec005,0.6525,True
+29.44,882,6,Too small,0.0,False
+30.11,902,1,1si24ec039,0.6742,True
+30.11,902,2,Unknown,0.3098,False
+30.11,902,3,1si24ec014,0.7799,True
+30.11,902,4,Unknown,0.2667,False
+30.11,902,5,Too small,0.0,False
+30.11,902,6,Too small,0.0,False
+30.78,922,1,1si24ec014,0.7867,True
+30.78,922,2,Unknown,0.2559,False
+30.78,922,3,Unknown,0.3168,False
+30.78,922,4,Unknown,0.5704,False
+31.28,937,1,1si24ec014,0.5509,True
+31.28,937,2,Unknown,0.5306,False
+31.51,944,1,1si24ec044,0.6064,True
+31.51,944,2,1si24ec014,0.4697,True
+31.51,944,3,Unknown,0.2983,False
+31.88,955,1,Unknown,0.2836,False
+31.88,955,2,1si24ec039,0.6159,True
+31.88,955,3,1si24ec014,0.4076,True
+31.88,955,4,Too small,0.0,False
+31.88,955,5,1si24ec044,0.4798,True
+31.88,955,6,Unknown,0.329,False
+31.88,955,7,Too small,0.0,False
+32.68,979,1,1si24ec014,0.6987,True
+32.68,979,2,Unknown,0.2877,False
+32.68,979,3,Too small,0.0,False
+32.68,979,4,Too small,0.0,False
+32.68,979,5,Too small,0.0,False
+32.68,979,6,1si24ec044,0.604,True
+32.68,979,7,Too small,0.0,False
+33.35,999,1,1si24ec014,0.7415,True
+33.35,999,2,Unknown,0.3626,False
+33.35,999,3,Too small,0.0,False
+33.35,999,4,1si24ec044,0.5369,True
+33.35,999,5,Too small,0.0,False
+33.35,999,6,Too small,0.0,False
+33.35,999,7,Too small,0.0,False
+33.35,999,8,Too small,0.0,False
+33.35,999,9,Too small,0.0,False
+33.35,999,10,Too small,0.0,False
+34.31,1028,1,1si24ec044,0.6982,True
+34.31,1028,2,1si24ec014,0.7181,True
+34.31,1028,3,Too small,0.0,False
+34.31,1028,4,Too small,0.0,False
+34.31,1028,5,Too small,0.0,False
+34.31,1028,6,Too small,0.0,False
+34.31,1028,7,Too small,0.0,False
+34.31,1028,8,Too small,0.0,False
+34.31,1028,9,Too small,0.0,False
+34.31,1028,10,Too small,0.0,False
+34.31,1028,11,Too small,0.0,False
+34.31,1028,12,Too small,0.0,False
+35.35,1059,1,1si24ec014,0.7076,True
+35.35,1059,2,1si24ec044,0.6646,True
+35.35,1059,3,Too small,0.0,False
+35.35,1059,4,Too small,0.0,False
+35.35,1059,5,Too small,0.0,False
+35.35,1059,6,Too small,0.0,False
+35.35,1059,7,Too small,0.0,False
+35.35,1059,8,Too small,0.0,False
+35.35,1059,9,Too small,0.0,False
+35.35,1059,10,Too small,0.0,False
+35.35,1059,11,Too small,0.0,False
+35.35,1059,12,Too small,0.0,False
+36.42,1091,1,1si24ec011,0.5201,True
+36.42,1091,2,1si24ec035,0.637,True
+36.42,1091,3,1si24ec014,0.4304,True
+36.42,1091,4,1si24ec040,0.4499,True
+36.42,1091,5,Unknown,0.3672,False
+36.42,1091,6,Unknown,0.353,False
+36.42,1091,7,Too small,0.0,False
+36.42,1091,8,Too small,0.0,False
+36.42,1091,9,Too small,0.0,False
+36.42,1091,10,Too small,0.0,False
+36.42,1091,11,Too small,0.0,False
+36.42,1091,12,Too small,0.0,False
+37.62,1127,1,1si24ec011,0.5817,True
+37.62,1127,2,1si24ec057,0.5535,True
+37.62,1127,3,Unknown,0.3076,False
+37.62,1127,4,1si24ec043,0.5548,True
+37.62,1127,5,Too small,0.0,False
+37.62,1127,6,Too small,0.0,False
+37.62,1127,7,Too small,0.0,False
+37.62,1127,8,Too small,0.0,False
+37.62,1127,9,Too small,0.0,False
+37.62,1127,10,Too small,0.0,False
+38.62,1157,1,Too small,0.0,False
+38.62,1157,2,1si24ec011,0.4949,True
+38.62,1157,3,1si24ec057,0.5314,True
+38.62,1157,4,1si24ec043,0.5252,True
+38.62,1157,5,Too small,0.0,False
+38.62,1157,6,Too small,0.0,False
+38.62,1157,7,Too small,0.0,False
+38.62,1157,8,Too small,0.0,False
+38.62,1157,9,Too small,0.0,False
+38.62,1157,10,Too small,0.0,False
+38.62,1157,11,Too small,0.0,False

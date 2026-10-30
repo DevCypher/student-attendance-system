@@ -14,7 +14,7 @@ from insightface.app import FaceAnalysis
 # 1. CONFIGURATION
 # =========================================================
 
-VIDEO_PATH = Path(r"C:\Mini\testvid2.mp4")
+VIDEO_PATH = Path(r"C:\Mini\testvid3.mp4")
 
 # Use the exact existing project folder name
 DATABASE_PATH = Path(
@@ -298,7 +298,12 @@ def main():
     frame_number = 0
     paused = False
 
-    frame_delay_ms = max(1, round(1000 / source_fps))
+    # Video playback speed
+    PLAYBACK_SPEED = 0.75
+    frame_delay_ms = max(
+    1,
+    round(1000 / (source_fps * PLAYBACK_SPEED))
+)
 
     print("\nVideo recognition started.")
     print("SPACE = pause/resume | Q or ESC = quit")
