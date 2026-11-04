@@ -14,7 +14,7 @@ from insightface.app import FaceAnalysis
 # 1. CONFIGURATION
 # =========================================================
 
-VIDEO_PATH = Path(r"C:\Mini\testvid1.mp4")
+VIDEO_PATH = Path(r"C:\Mini\testvid2.mp4")
 
 # Use the exact existing project folder name
 DATABASE_PATH = Path(
